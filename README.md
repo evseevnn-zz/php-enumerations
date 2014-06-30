@@ -1,4 +1,4 @@
 php-enumerations
 ================
 
-Enumerations in php.
+Enumerations for php.

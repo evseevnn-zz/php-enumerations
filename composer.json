@@ -1,0 +1,18 @@
+{
+	"name": "evseevnn/php-enumerations",
+	"description": "Support enumerations in PHP",
+	"minimum-stability": "stable",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "evseevnn",
+			"email": "evseevnn@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"autoload": {
+		"psr-4": { "Component\\": "Component" }
+	}
+}
